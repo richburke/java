@@ -1,0 +1,7 @@
+package com.genesisengine.parade;
+
+import com.genesisengine.playingcards;
+
+class ParadeDeck extends Deck
+{
+}
